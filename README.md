@@ -1,4 +1,4 @@
-🚀 AI-Powered PDF Chatbot: Powered by Streamlit, Langchain, FAISS & Google Gemini
+🚀** AI-Powered PDF Chatbot: Powered by Streamlit, Langchain, FAISS & Google Gemini**
 🔍 Overview
 Welcome to AI-Powered PDF Chatbot, the next-generation tool that lets you interact with your PDFs like never before! 🚀
 
